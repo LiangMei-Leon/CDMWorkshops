@@ -1,0 +1,11 @@
+{
+    "name": "GameControl",
+    "maps": [],
+    "controlSchemes": [
+        {
+            "name": "Soccer Game Control",
+            "bindingGroup": "Soccer Game Control",
+            "devices": []
+        }
+    ]
+}
